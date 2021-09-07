@@ -2,5 +2,7 @@
 Kumpulan Tugas Kampus yang berguna.
 
 
-> Gunakan Sumber ini dengan sebaik-baiknya
-> Setiap topik memiliki branch masing-masing
+> Gunakan Sumber ini dengan sebaik-baiknya.
+
+
+> Setiap topik memiliki branch masing-masing.
