@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T09:35:26.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="DqrnEusL6OET5Aesk33W" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-09T09:36:48.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="SmEz6xTCBnip7722YTqJ" version="15.5.0" type="github">
   <diagram id="wTLQ7tdB1s1KmeM_ki-9" name="Page-1">
     <mxGraphModel dx="1054" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,6 +51,12 @@
         </mxCell>
         <mxCell id="tDoiDZFR1WYoFqRCpeZ6-3" value="id_transaksi&lt;br&gt;tgl_trx&lt;br&gt;id_kasir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tDoiDZFR1WYoFqRCpeZ6-4" value="id_trx&lt;br&gt;id_barang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tDoiDZFR1WYoFqRCpeZ6-5" value="nama_barang&lt;br&gt;jumlah" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="90" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
